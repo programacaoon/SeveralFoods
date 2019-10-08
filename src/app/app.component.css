@@ -1,0 +1,32 @@
+.container {
+    max-width: 1180px;
+    overflow: hidden;
+}
+.w100 {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+html {
+    margin: 0;
+}
+
+.rodateto {
+    background-color: #864344;
+    color: white;
+    margin: 0;
+}
+.rodateto ul {
+    list-style: none;
+    text-align: right;
+    float: right;
+}
+.rodateto li {
+    float: left;
+    padding-right: 15px;
+}
+.rodateto li :last-child {
+    padding-right: 0px;
+}
